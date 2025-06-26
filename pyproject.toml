@@ -7,8 +7,10 @@ requires = [
 [project]
 version = "0.0.1"
 name = "very_simple_depbot_test"
+readme = "README.md"
+license-files = ["LICENSE.md"]
 requires-python = ">=3.8"
 dependencies = [
-  "aiohttp==3.10.0",
+  "aiohttp==3.0.0",
   "pydantic==2.0.0",
 ]
