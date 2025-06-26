@@ -2,7 +2,7 @@
 #    uv export --frozen --no-dev --no-editable --no-hashes --no-emit-project
 aiohttp==3.1.0
     # via very-simple-depbot-test
-async-timeout==2.0.1
+async-timeout==5.0.1
     # via aiohttp
 attrs==25.3.0
     # via aiohttp
